@@ -11,7 +11,7 @@ Flask==1.1.2
 Flask-Mail==0.9.1
 idna==2.5
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 kombu==4.0.2
 MarkupSafe==1.1.1
 packaging==16.8
